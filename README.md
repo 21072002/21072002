@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yadvendra Wagh</h1>
-<h3 align="center">An Artificial Intelligence and Machine Learning Enthusiast from India</h3>
+<h3 align="center">An Artificial Intelligence and Machine Learning Enthusiast from India.</h3>
 
 <p align="left"> <a href="https://twitter.com/yadvendrawagh" target="blank"><img src="https://img.shields.io/twitter/follow/yadvendrawagh?logo=twitter&style=for-the-badge" alt="yadvendrawagh" /></a> </p>
 
