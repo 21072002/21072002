@@ -1,3 +1,9 @@
+<div align="center">
+  <img height="250" src="https://redblink.com/wp-content/uploads/2023/03/AI-content-to-human-written-converter-bypass-ai-detection-tools-chatgpt-gptzero-originality-copyleaks-gpt2-output-detector-content-at-scale-bypass.gif"  />
+</div>
+
+<h1 align="center">Hii👋, I'm Yadvendra.</h1>
+
 # 💫 About Me:
 🌱 I’m currently learning Data Science | Machine Learning | Deep Learning | NLP | Computer Vision.<br><br>👨‍💻 All of my projects are available at https://github.com/21072002<br><br>📫 How to reach me yad.wagh21@gmail.com<br><br>⚡ Fun fact I can't live Without Tea 🍵
 
